@@ -1,10 +1,7 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: Steinmeisser
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
-
-
+Ihr Partner im Garten und Landschaftsbau
